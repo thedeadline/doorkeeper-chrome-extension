@@ -24,11 +24,11 @@ First you need to clone the [repository from GitHub](http://github.com/applicake
 
 Open Google Chrome
 
-    url->chrome://settings/extensions
+    url->chrome://extensions
 
-Make sure "Developer mode" is checked
+Make sure "Developer mode" is toggled on
 
-Click "Load unpacked extension"
+Click "Load unpacked"
 
     Load the doorkeeper-chrome-extension directory
 
